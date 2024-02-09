@@ -1,3 +1,8 @@
+# Traffic Weather Data App
+
+![Traffic Weather Data App](./forecast-fe/demo/datetime.png)
+![Traffic Weather Data App](./forecast-fe/demo/location.png)
+
 # Assumptions and Technical Design
 
 ## Assumptions
