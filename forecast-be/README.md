@@ -10,7 +10,12 @@ This repository contains a NestJS Node.js backend application for reporting traf
 
 ## API design
 
-![TrafficWeather Forecast Api](demo/system.png)
+![Traffic Weather Data Api](demo/system.png)
+
+## APIs
+
+![Traffic Weather Data Api and Reporting Api](demo/apis.png)
+
 
 ## Installation
 
